@@ -1,3 +1,4 @@
+# This is a class example
 from bs4 import BeautifulSoup
 import urllib.request
 #from urllib.request import Request
